@@ -1,7 +1,7 @@
 # React Nxt Trendz
 
 ## 🚀 Live Demo
-[Click here to view the demo](https://darshan-react-nxt-trendz.vercel.app/)
+[Click here to view the demo](https://darshanas17.github.io/react-nxt-trendz/)
 
 ### 📌 Overview
 The **React Nxt Trendz** is a dynamic React application that displays trending fashion items. Users can browse through various categories of products such as "Men," "Women," and "Kids." It leverages state management in React to handle the display and interaction with these categories.
